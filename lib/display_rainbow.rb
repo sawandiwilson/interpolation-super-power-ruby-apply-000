@@ -14,6 +14,6 @@
 # end
 
 
-def display_rainbow
-  
+def display_rainbow(colors)
 end
+write display_rainbow
