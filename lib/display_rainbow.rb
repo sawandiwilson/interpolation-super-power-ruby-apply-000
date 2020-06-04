@@ -12,3 +12,8 @@
 # puts "The sixth color is: #{colors[5]}"
 # puts "The fifth color is: #{colors[6]}"
 # end
+
+
+def display_rainbow
+  
+end
