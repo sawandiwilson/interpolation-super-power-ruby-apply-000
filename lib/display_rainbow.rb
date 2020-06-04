@@ -1,3 +1,4 @@
+require "pry"
 # def display_rainbow 
 # display_rainbow = ["R: red", "O: orange", "Y: yellow", "G: green", "B: blue", "I: indigo", "V: violet"]
 # display_rainbow
@@ -15,5 +16,5 @@
 
 
 def display_rainbow(colors)
+  binding.pry
 end
-write display_rainbow
